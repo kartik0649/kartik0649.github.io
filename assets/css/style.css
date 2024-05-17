@@ -736,7 +736,7 @@ small {
 /* Ensure the section remains responsive */
 @media (max-width: 992px) {
   .skills-row {
-    animation-duration: 40s; /* Slow down animation for smaller screens if needed */
+    animation-duration: 20s; /* Slow down animation for smaller screens if needed */
   }
 
   .skill-item {
