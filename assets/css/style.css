@@ -711,7 +711,7 @@ small {
 .skills-row {
   display: flex;
   overflow: visible;
-  animation: moveSkills 20s linear infinite; /* Adjust duration to ensure smooth scrolling */
+  animation: moveSkills 10s linear infinite; /* Adjust duration to ensure smooth scrolling */
 }
 
 .skill-item {
